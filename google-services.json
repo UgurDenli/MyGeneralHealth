@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418404275120",
+    "project_id": "mygeneralhealth-4c82a",
+    "storage_bucket": "mygeneralhealth-4c82a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418404275120:android:486195acd57bf7085cbc75",
+        "android_client_info": {
+          "package_name": "com.invenium.mygeneralhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418404275120-kfagd6eeflnlfn5jjudd93tln4lhb9g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invenium.mygeneralhealth",
+            "certificate_hash": "7752ffaf570a0c61539ae62c651166068d53e123"
+          }
+        },
+        {
+          "client_id": "418404275120-damlued7u77v93n5l6hgtojnfi17416g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLXXfZH1FAyiMDTR_UwZ-kLM5fZKBvzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418404275120-damlued7u77v93n5l6hgtojnfi17416g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
